@@ -524,15 +524,21 @@ span {
         display: none;
     }
     .hero__title {
-        font-size: 45px;
+        font-size: 25px;
     }
     .hero__subtitle {
-        font-size: 42px;
+        font-size: 18px;
     }
     .info img {
         display: none;
     }
     .evo-white__inner {
+        display: none;
+    }
+    .blog img {
+        display: none;
+    }
+    .footer__address {
         display: none;
     }
 }
